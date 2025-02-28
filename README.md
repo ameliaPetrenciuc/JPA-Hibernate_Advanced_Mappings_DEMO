@@ -21,5 +21,6 @@ This project is a **JPA-Hibernate Advanced Mappings Demo** that demonstrates how
 - **MySQL** – Relational database for storing entities.
 - **Maven** – Dependency management.
 
+![image](https://github.com/user-attachments/assets/ff9afad7-a5cc-4a2b-9212-2b160322c3c9)
 
 
